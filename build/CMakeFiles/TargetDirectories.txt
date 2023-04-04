@@ -1,0 +1,3 @@
+/home/zby/codetest/MailingSheet/build/CMakeFiles/rebuild_cache.dir
+/home/zby/codetest/MailingSheet/build/CMakeFiles/edit_cache.dir
+/home/zby/codetest/MailingSheet/build/CMakeFiles/msd.dir

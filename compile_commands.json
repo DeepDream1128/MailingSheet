@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zby/codetest/MailingSheet",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4   -O3   -o CMakeFiles/msd.dir/msd_v1.1.cpp.o -c /home/zby/codetest/MailingSheet/msd_v1.1.cpp",
+  "file": "/home/zby/codetest/MailingSheet/msd_v1.1.cpp"
+}
+]
